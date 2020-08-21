@@ -1,6 +1,5 @@
-## Kaikyu Lotus Github
-
 <div align="center">
+  
   # Kaikyu Lotus Github
 
   ### If you like my work feel free to follow my [Telegram Channel](https://t.me/Kaikyu)
